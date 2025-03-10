@@ -11,7 +11,6 @@ Meu nome é Pedro Augusto e eu sou desenvolvedor back-end júnior.
 
 - :blue_heart: Apaixonado por Tecnologia
 - :coffee: Java/Python/JS
-- :green_heart: NoSQL
 - :envelope: Mensageria/Streams
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=pdroacs&show_icons=true&locale=pt-BR&theme=transparent&rank_icon=github)
