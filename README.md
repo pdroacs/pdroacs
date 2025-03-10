@@ -7,7 +7,7 @@
 
 ## Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
-Meu nome é Pedro Augusto e eu sou desenvolvedor back-end.
+Meu nome é Pedro Augusto e eu sou desenvolvedor back-end júnior.
 
 - :blue_heart: Apaixonado por Tecnologia
 - :coffee: Java/Python/JS
